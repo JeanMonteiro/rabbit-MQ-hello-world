@@ -1,0 +1,10 @@
+{
+  "name": "rabbit-MQ-hello-world",
+  "version": "1.0.0",
+  "description": "simple hello world with node + rabbitMQ",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.5"
+  }
+}
